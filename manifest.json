@@ -1,0 +1,35 @@
+{
+    "name": "Santander",
+    "short_name": "Santander",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EC0000",
+    "theme_color": "#EC0000",
+    "description": "App de Home Banking Santander",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon.jpg",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon.jpg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
